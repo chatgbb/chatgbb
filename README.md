@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chatgbb
-- 👀 I’m interested in Graphs, Category theory, and their applications to machine learning, robots, and system design
-- 🌱 I’m currently doing a deep dive into c++ / scala
-- 💞️ I’m looking to collaborate on anything fun!
+- 🌱 I'm currently learning and reading about VLMs , VLAs and other action language models
 - 📫 How to reach me  email me at gabrielle.merritt21@gmail.com
 
 <!---
